@@ -1,4 +1,4 @@
-# APM-oomph
+# APM-oomph  - Setup eclipse and get your first build in 5 minutes...
 Oomph setup files for APM developer environment
 
   Instructions (5 second version)
