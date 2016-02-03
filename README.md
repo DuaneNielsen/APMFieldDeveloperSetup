@@ -7,4 +7,4 @@ Oomph setup files for APM developer environment
     
     https://raw.githubusercontent.com/DuaneNielsen/APMFieldDeveloperSetup/master/APMFieldDeveloper.setup
     
-  Step by step guide: https://github-isl-01.ca.com/niedu02/APM-oomph/blob/master/APM%20Field%20Dev%20Eclipse%20Speed%20Start.pdf
+  Step by step guide: https://github.com/DuaneNielsen/APMFieldDeveloperSetup/blob/master/APM%20Field%20Dev%20Eclipse%20Speed%20Start.pdf
