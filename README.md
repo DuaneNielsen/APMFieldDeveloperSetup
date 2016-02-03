@@ -5,6 +5,6 @@ Oomph setup files for APM developer environment
 
   Download https://wiki.eclipse.org/Eclipse_Installer and add the below user product
     
-    https://raw.github-isl-01.ca.com/niedu02/APM-oomph/master/APMFieldDeveloper.setup?token=AAACfY2M5m8M-2EVBeZrABKsvea1wqnKks5WurZkwA%3D%3D
+    https://raw.githubusercontent.com/DuaneNielsen/APMFieldDeveloperSetup/master/APMFieldDeveloper.setup
     
   Step by step guide: https://github-isl-01.ca.com/niedu02/APM-oomph/blob/master/APM%20Field%20Dev%20Eclipse%20Speed%20Start.pdf
