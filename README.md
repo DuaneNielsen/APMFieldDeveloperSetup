@@ -3,7 +3,7 @@ Oomph setup files for APM developer environment
 
   Instructions (5 second version)
 
-  Download https://wiki.eclipse.org/Eclipse_Installer and add the below user product
+  Download https://wiki.eclipse.org/Eclipse_Installer and, change installer to "ADVANCED MODE" add the below user product
     
     https://raw.githubusercontent.com/DuaneNielsen/APMFieldDeveloperSetup/master/APMFieldDeveloper.setup
     
