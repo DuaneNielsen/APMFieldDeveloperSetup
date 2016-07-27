@@ -129,6 +129,8 @@
           name="org.eclipse.m2e.feature.feature.group"/>
       <requirement
           name="org.eclipse.epp.mpc.feature.group"/>
+      <requirement
+          name="org.eclipse.pde.feature.group"/>
       <repository
           url="http://download.eclipse.org/releases/mars"/>
     </setupTask>
